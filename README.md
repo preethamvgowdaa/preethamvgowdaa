@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Currently Student !!
+Currently Student !
 
 
 # 💻 Tech Stack:
