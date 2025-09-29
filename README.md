@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 About Me
 Currently Student !!
 .
 
